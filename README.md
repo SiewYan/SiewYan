@@ -15,4 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src = https://github-readme-stats.vercel.app/api?username=SiewYan&theme=vue-dark&show_icons=true alt="Drawing" style="height: 150px">
+<details open>
+ <summary> <b>My Github Stats</b>: </summary>
+<br>
+<p align = "center">
+<img src = "https://github-readme-stats.vercel.app/api?username=SiewYan&theme=vue-dark&show_icons=true" alt="Drawing" style="height: 150px">
+</p>
+
+</details>
